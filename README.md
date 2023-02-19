@@ -1,5 +1,5 @@
 # Computer_Vision_Implementation
-All computer vision implementation
+Implementing novel architectures and algorithms of Computer Vision
 
 Computer Vision
 
